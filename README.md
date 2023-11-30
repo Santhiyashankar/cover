@@ -37,7 +37,7 @@ Publish the website in the LocalHost.
     .bookpage{
         width: 400px;
         height: 600px;
-        color:lavender;
+        color:lightsteelblue;
         margin-left: auto;
         margin-right: auto;
         padding: 20px;
@@ -48,7 +48,7 @@ Publish the website in the LocalHost.
         
     
     .insight{
-        color: paleturquoise;
+        color: palegreen;
     
     }
     
@@ -60,7 +60,7 @@ Publish the website in the LocalHost.
     
         display: inline;
         position: relative;
-        color: cyan;
+        color: lightcoral;
         top:160px;
         
         font-family:Georgia;
@@ -87,7 +87,7 @@ Publish the website in the LocalHost.
         left:330px;
     }
     .ed{
-        color: red;
+        color: lightpink;
         font-size: medium;
         font-family: Verdana;
         position:relative;
@@ -112,40 +112,63 @@ Publish the website in the LocalHost.
     <title>Book Cover Page</title>
     </head>
     <body>
+        <br>
+        <br>
+
     <div class="bookpage">
         <div class="insight">
             INSIGHT EXPERIENCE
         </div>
         <div class="hrstyle">
-            <hr style="color: yellow;">
+            <hr style="color: olive;">
         </div>
+        
         <div class="booktitle">
-            <h1>THE LORD OF RINGS</h1></div>
+            <h1>MANAGING INFORMATION TECHNOLOGY</h1></div>
         <div class="subtitle">
-            The Lord Of Rings is about the Death and desire of the deathlessness
+            <ul>
+            <l1><b>Technical Management</b></l1>
+            <l2><b>IT operation Management</b></l2>
+            </ul>
+        
         </div>
+        <br>
+        <br>
         <div class="mypic">
-            <img src="/static/image.jpg" width="130" height="145" alt="">
+            <img src="/static/image1.jpg" width="130" height="145" alt="">
         </div>
+    
         <div class="id">
+        
+        
+        
             <hr style="color: goldenrod;">
+        
         </div>
         <div class="author">
+        
            <p><b>SANTHIYA.S</b></p>
+        
         </div>
         <div class="pub">
             SEC
         </div>
         <div class="ed">
+            
             <b>Third Edition</b>
         </div>
     </div>
+</br>
+</br>
+</br>
+</br>
+
     </body>
 </html>
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (138).png>)
+![Alt text](<Screenshot (139).png>)
 
 
 ## RESULT:
